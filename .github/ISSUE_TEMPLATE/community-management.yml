@@ -5,7 +5,7 @@ description: 'Use it for any proposals for improving the community, governance a
 body:
   - type: textarea
     attributes:
-      label: Proposals
+      label: Proposal
       description: Summarize your idea here
     validations:
       required: true
