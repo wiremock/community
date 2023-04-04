@@ -1,0 +1,17 @@
+name: '🌐 Community Enhancement'
+labels: ['community']
+description: 'Use it for any proposals for improving the community, governance and tooling around it '
+
+body:
+  - type: textarea
+    attributes:
+      label: Proposals
+      description: Summarize your idea here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: References
+      label: Reference any relevant documentation, other materials or issues/pull requests that can be used for inspiration.
+ 
