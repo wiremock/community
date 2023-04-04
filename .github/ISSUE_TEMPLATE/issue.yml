@@ -1,0 +1,17 @@
+name: '🐛 Community Enhancement'
+labels: ['bug', 'community']
+description: 'Something doesn't work as you expect in the community? Let us know!'
+
+body:
+  - type: textarea
+    attributes:
+      label: Issue
+      description: Describe the issue, the actual and expected behaviors, and potential solutions here
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: References
+      label: Reference any relevant documentation, other materials or issues/pull requests that can be used for inspiration.
+ 
