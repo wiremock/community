@@ -1,6 +1,6 @@
 name: '🐛 Community Enhancement'
 labels: ['bug', 'community']
-description: 'Something doesn't work as you expect in the community? Let us know!'
+description: 'Something does not work as you expect in the community? Let us know!'
 
 body:
   - type: textarea
