@@ -24,7 +24,7 @@ You can help make WireMock a better tool in a number of ways:
 - Subscribe to the [`#wiremock` tag on StackOverflow](https://stackoverflow.com/questions/tagged/wiremock).
   Many questions are raised there, and it is a good opportunity to get StackOverflow medals :smile:
 - If you have expertise with a particular WireMock component, e.g. _WireMock Java_ or _WireMock.NET_,
-  be sure maintainers will appreciate
+   maintainers will appreciate
   your help with triage of issue reports and feature requests!
   You can periodically check the components or subscribe to the repositories.
 
