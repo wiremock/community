@@ -17,6 +17,17 @@ Shared repository for community matters: governance, artwork, tasks, additional 
 - [Official WireMock Logo Sources](./logo)
 - [Artwork](./artwork) - feel free to reuse
 
+## Community analytics
+
+Here are some public analytics locations
+
+- [WireMock on Cauldron](https://cauldron.io/project/7478) - GitHub analytics, including repository and contributions health
+
+Private abalytics, access can be granted upon request:
+
+- Google Analytics for the website(s)
+- Microsoft Clarity - website heatmaps
+
 ## Contributing
 
 If you are interested to participate in building the WireMock community, join the `#community-management` Slack channel in the WireMock Workspace!
