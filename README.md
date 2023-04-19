@@ -1,5 +1,7 @@
 # WireMock Community
 
+[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](http://slack.wiremock.org/)
+
 Shared repository for community matters: governance, artwork, tasks, additional documentation, etc.
 
 ## References
