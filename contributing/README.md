@@ -61,8 +61,14 @@ or just use GitHub's web interface for small patches.
 
 ### Built-in docs
 
-Some documentation is generated from code, for example Javadoc or API specifications.
-This documentation can be (and should be) edited along with code.
+Some documentation is generated from code, for example Javadoc
+This documentation can be (and should be) edited along with code so that it could be published later to the websites.
+
+- [Unofficial Javadoc site](https://javadoc.io/doc/com.github.tomakehurst/wiremock)
+
+Note that the [WireMock Admin REST API specification]((https://wiremock.org/docs/api/)) is currently stored under the 
+website repository ([repo](https://github.com/wiremock/wiremock.org-sources/tree/master/swagger)),
+and hence should be updated in subsequent pull requests.
 
 ### Other documentation
 
@@ -122,6 +128,9 @@ it should be updated as a part of the pull request.
 Otherwise, for example for the `wiremock.org` documentation patches,
 it is recommended to create a downstream pull request
 so that the feature and the docs could be reviewed at the same time.
+
+- [Website Sources](https://github.com/wiremock/wiremock.org-sources)
+- [OpenAPI Specification sources](https://github.com/wiremock/wiremock.org-sources/tree/master/swagger)
 
 ## Help to spread the word
 
