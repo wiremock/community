@@ -64,7 +64,8 @@ or just use GitHub's web interface for small patches.
 Some documentation is generated from code, for example Javadoc
 This documentation can be (and should be) edited along with code so that it could be published later to the websites.
 
-- [Unofficial Javadoc site](https://javadoc.io/doc/com.github.tomakehurst/wiremock)
+- [Unofficial Javadoc site](https://javadoc.io/doc/com.github.tomakehurst/wiremock).
+  See [wiremock/wiremock.org #32](https://github.com/wiremock/wiremock.org/issues/32) for hosting an official Javadoc site.
 
 Note that the [WireMock Admin REST API specification]((https://wiremock.org/docs/api/)) is currently stored under the 
 website repository ([repo](https://github.com/wiremock/wiremock.org-sources/tree/master/swagger)),
