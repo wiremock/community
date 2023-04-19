@@ -51,7 +51,7 @@ How to find a repository? There are a few options:
 
 Most of WireMock's documentation is published on `wiremock.org`,
 which is a static website built using Jekyll.
-The website sources are located here: [wiremock/wiremock.org-sources](https://github.com/wiremock/wiremock.org-sources).
+The website sources are located here: [wiremock/wiremock.org](https://github.com/wiremock/wiremock.org).
 All the documentation is located under the `_docs` directory as Markdown files,
 and it can be edited with all modern text editors and IDEs.
 
@@ -68,7 +68,7 @@ This documentation can be (and should be) edited along with code so that it coul
   See [wiremock/wiremock.org #32](https://github.com/wiremock/wiremock.org/issues/32) for hosting an official Javadoc site.
 
 Note that the [WireMock Admin REST API specification]((https://wiremock.org/docs/api/)) is currently stored under the 
-website repository ([repo](https://github.com/wiremock/wiremock.org-sources/tree/master/swagger)),
+website repository ([repo](https://github.com/wiremock/wiremock.org/tree/main/swagger)),
 and hence should be updated in subsequent pull requests.
 
 ### Other documentation
@@ -130,8 +130,8 @@ Otherwise, for example for the `wiremock.org` documentation patches,
 it is recommended to create a downstream pull request
 so that the feature and the docs could be reviewed at the same time.
 
-- [Website Sources](https://github.com/wiremock/wiremock.org-sources)
-- [OpenAPI Specification sources](https://github.com/wiremock/wiremock.org-sources/tree/master/swagger)
+- [Website Sources on GitHub](https://github.com/wiremock/wiremock.org)
+- [OpenAPI Specification sources](https://github.com/wiremock/wiremock.org/tree/main/swagger)
 
 ## Help to spread the word
 
