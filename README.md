@@ -14,6 +14,7 @@ Shared repository for community matters: governance, artwork, tasks, additional 
 
 - Twitter: [@wiremockorg](https://twitter.com/wiremockorg)
 - Mastodon: [@wiremock@fosstodon.org](https://fosstodon.org/@wiremock)
+- YouTube: [@WireMockTV](https://www.youtube.com/@WireMockTV)
 - LinkedIn: [wiremock](https://www.linkedin.com/company/wiremock/) (shared with WireMock Inc)
 
 ## Resources
