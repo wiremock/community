@@ -59,6 +59,15 @@ You can extend or modify documentation by submitting a pull request against the 
 To do so, you can either fork and clone the repository and do edits in your branch,
 or just use GitHub's web interface for small patches.
 
+### Tutorials and Guides
+
+We are happy to include new WireMock tutorials and to publish them from our resources:
+websites, GitHub org, and YouTube videos.
+We will be also happy to reference and repost tutorials published on the different platforms.
+
+> **NOTE:** We are currently working on the new structure for Tutorials and Quick Start guides on the website.
+> If you are intersted to write one, please join the `#help-contributing` channel and let us know there.
+
 ### Built-in docs
 
 Some documentation is generated from code, for example Javadoc
