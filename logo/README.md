@@ -9,12 +9,12 @@ More artwork is coming soon!
 
 ### Project logo
 
-![Small Logo](1_WireMock_Logo.png)
+<img width="256px" src="1_WireMock_Logo.png" alt="WireMock Small Logo"/>
 
 ### Wide Logo
 
-![Wide Logo](2_WireMock_Logo_Wide.png)
+<img width="512px" src="2_WireMock_Logo_Wide.png" alt="WireMock Wide Logo"/>
 
 ### Combined Logo
 
-![Combined Logo](3_WireMock_Logo_Combined.png)
+<img width="256px" src="3_WireMock_Logo_Combined.png" alt="WireMock Combined Logo"/>
