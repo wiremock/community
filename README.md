@@ -1,5 +1,11 @@
 # WireMock Community
 
+<p align="center">
+    <a href="https://wiremock.org" target="_blank">
+        <img width="512px" src="logo/2_WireMock_Logo_Wide.png" alt="WireMock Logo"
+    </a>
+</p>
+
 [![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](https://slack.wiremock.org/)
 
 Shared repository for community matters: governance, artwork, tasks, additional documentation, etc.
@@ -19,7 +25,7 @@ Shared repository for community matters: governance, artwork, tasks, additional 
 
 ## Resources
 
-- [Official WireMock Logo Sources](./logo)
+- [Official WireMock Logos](./logo)
 - [Artwork](./artwork) - feel free to reuse
 
 ## Community analytics
