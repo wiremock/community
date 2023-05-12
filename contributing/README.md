@@ -11,7 +11,7 @@ there're opportunities to participate and help the project!
 
 You can help make WireMock a better tool in a number of ways:
 
-- Help other WireMock users and sharing tips
+- Help other WireMock users, e.g. by sharing your expertise or answering questions on community channels
 - Write or improve documentation
 - Raise an issue if you discover a bug
 - Contribute bug fixes, new features or enhancements
