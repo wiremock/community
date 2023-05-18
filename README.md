@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://wiremock.org" target="_blank">
-        <img width="512px" src="logo/2_WireMock_Logo_Wide.png" alt="WireMock Logo"
+        <img width="512px" src="logo/2_WireMock_Logo_Wide.png" alt="WireMock Logo"/>
     </a>
 </p>
 
