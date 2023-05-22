@@ -6,7 +6,9 @@
     </a>
 </p>
 
-[![a](https://img.shields.io/badge/slack-Join%20us-brightgreen?style=flat&logo=slack)](https://slack.wiremock.org/)
+[![a](https://img.shields.io/badge/slack-%23help_contributing-brightgreen?style=flat&logo=slack)](https://slack.wiremock.org/)
+[![a](https://img.shields.io/badge/Code-of_conduct-pink?style=flat&logo=heart)](https://github.com/wiremock/.github/blob/main/CODE_OF_CONDUCT.md)
+[![a](https://img.shields.io/badge/Public-Roadmap-brightgreen?style=flat)](https://github.com/orgs/wiremock/projects/4)
 
 Shared repository for community matters: governance, artwork, tasks, additional documentation, etc.
 
