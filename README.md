@@ -13,6 +13,7 @@ Shared repository for community matters: governance, artwork, tasks, additional 
 ## References
 
 - [Contributing to WireMock](./contributing)
+- [Community Governance](./governance/)
 - [Community Management Dashboard](https://github.com/orgs/wiremock/projects/3)
 - [Code of Conduct](https://github.com/wiremock/.github/blob/main/CODE_OF_CONDUCT.md)
 
