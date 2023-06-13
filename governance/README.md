@@ -69,6 +69,11 @@ like social media, distribution repos, accounts, etc.
 They can assist _maintainers_ and _contributors_
 with providing the necessary access and permissions.
 
+## WireMock [Java] co-maintainer
+
+A subtype of the core maintainer specifically for the WireMock Core (a.k.a. WireMock Java).
+See the [WireMock Contributor Guide](https://github.com/wiremock/wiremock/blob/master/CONTRIBUTING.md)
+
 ### Community Managers
 
 A subtype of the core maintainer.
