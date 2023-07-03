@@ -74,6 +74,8 @@ with providing the necessary access and permissions.
 A subtype of the core maintainer specifically for the WireMock Core (a.k.a. WireMock Java).
 See the [WireMock Contributor Guide](https://github.com/wiremock/wiremock/blob/master/CONTRIBUTING.md)
 
+GitHub Team: [@wiremock/wiremock-java-co-maintainers](https://github.com/orgs/wiremock/teams/wiremock-java-co-maintainers)
+
 ### Community Managers
 
 A subtype of the core maintainer.
