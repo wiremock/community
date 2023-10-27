@@ -1,0 +1,34 @@
+name: '🌐 Maven Central Hosting'
+labels: ['community', 'infrastructure']
+description: 'Hosting new Maven projects with release automation to Maven Central'
+
+body:
+  - type: input
+    attributes:
+      label: Repo URL
+      description: |
+        Repository to be hosted. If it is not on the WireMock GitHub org,
+        it will need to be transferred.
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Group ID
+      description: Maven groupID
+
+  - type: input
+    attributes:
+      label: Artifact ID
+      description: Maven artifactID
+
+  - type: input
+    attributes:
+      label: Users with release rights
+      description: List of OSSRH users who should also get permissions
+      value: 'wiremock-release-bot'
+  
+  - type: textarea
+    attributes:
+      label: Details and References
+      description: Any additional context and links
