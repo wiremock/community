@@ -45,6 +45,8 @@ hence some magic is needed.
 
 #### For Maven
 
+Example: [wiremock/wiremock-testcontainers-java](https://github.com/wiremock/wiremock-testcontainers-java)
+
 ```yaml
     steps:
       - name: Checkout
@@ -101,4 +103,50 @@ hence some magic is needed.
 
 #### For Gradle
 
-A sample is coming soon!
+See [wiremock/wiremock-state-extension](https://github.com/wiremock/wiremock-state-extension) for the example of the Gradle build definition.
+See [wiremock/ecosystem #19](https://github.com/wiremock/ecosystem/issues/19) for the specialized Convention plugin which will make it easier.
+
+GitHub Action Sample:
+
+```yaml
+name: Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Java
+        uses: actions/setup-java@v3
+        with:
+          java-version: '11'
+          distribution: 'adopt'
+      - name: Validate Gradle wrapper
+        uses: gradle/wrapper-validation-action@v1
+
+      - name: Determine new version
+        id: new_version
+        run: |
+          NEW_VERSION=$(echo "${GITHUB_REF}" | cut -d "/" -f3)
+          echo "new_version=${NEW_VERSION}" >> $GITHUB_OUTPUT
+
+      - name: Publish package
+        id: publish_package
+        uses: gradle/gradle-build-action@v2.9.0
+        with:
+          arguments: -Pversion=${{ steps.new_version.outputs.new_version }} publish closeAndReleaseStagingRepository
+
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OSSRH_USERNAME: ${{ secrets.OSSRH_USERNAME }}
+          OSSRH_TOKEN: ${{ secrets.OSSRH_TOKEN }}
+          OSSRH_GPG_SECRET_KEY: ${{ secrets.OSSRH_GPG_SECRET_KEY }}
+          OSSRH_GPG_SECRET_KEY_PASSWORD: ${{ secrets.OSSRH_GPG_SECRET_KEY_PASSWORD }}
+```
