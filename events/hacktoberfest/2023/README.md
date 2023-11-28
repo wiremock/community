@@ -114,7 +114,7 @@ Make sure to sign-up using this form!
 Examples of the swag we plan to distribute,
 worn by the proud WireMock engineering team!
 
-![Hacktoberfest Header](/images/events/hacktoberfest/wiremock_tshirts.png)
+![Hacktoberfest Header](./wiremock_tshirts.png)
 
 ## Code of Conduct
 
