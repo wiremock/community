@@ -11,6 +11,10 @@ description: |
 
 # WireMock in Hacktoberfest 2023
 
+> **NOTE:**
+> Hacktoberfest 2023 is over.
+> Stay tuned for the 2024 edition!
+
 Hacktoberfest is a month-long celebration of open source software which happens as a global online hackathon.
 As the official website states, “Hacktoberfest has grown from 676 participants in 2014 to nearly 147,000 participants last year”,
 and it is surely the most massive open source hackathon.
