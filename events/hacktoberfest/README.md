@@ -19,6 +19,12 @@ Stay tuned for the 2024 edition!
 
 ![Hacktoberfest 2023](./2023/wiremock_hacktoberfest_header.png)
 
+## References
+
+- [Hacktoberfest Website](https://hacktoberfest.com/)
+
 ## Archive
 
 - [Hacktoberfest 2023](./2023/README.md)
+
+
