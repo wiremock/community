@@ -17,6 +17,8 @@ and it is surely the most massive open source hackathon.
 WireMock has participated in Hacktoberfest since 2023.
 Stay tuned for the 2024 edition!
 
+![Hacktoberfest 2023](./2023/wiremock_hacktoberfest_header.png)
+
 ## Archive
 
 - [Hacktoberfest 2023](./2023/README.md)
